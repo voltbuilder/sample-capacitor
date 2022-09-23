@@ -1,0 +1,66 @@
+[
+	{
+		"pkg": "@capacitor-community/keep-awake",
+		"classpath": "com.getcapacitor.community.keepawake.KeepAwakePlugin"
+	},
+	{
+		"pkg": "@capacitor-community/privacy-screen",
+		"classpath": "com.getcapacitor.plugin.privacyscreen.PrivacyScreenPlugin"
+	},
+	{
+		"pkg": "@capacitor-community/text-to-speech",
+		"classpath": "com.getcapacitor.community.tts.TextToSpeechPlugin"
+	},
+	{
+		"pkg": "@capacitor/app",
+		"classpath": "com.capacitorjs.plugins.app.AppPlugin"
+	},
+	{
+		"pkg": "@capacitor/camera",
+		"classpath": "com.capacitorjs.plugins.camera.CameraPlugin"
+	},
+	{
+		"pkg": "@capacitor/filesystem",
+		"classpath": "com.capacitorjs.plugins.filesystem.FilesystemPlugin"
+	},
+	{
+		"pkg": "@capacitor/haptics",
+		"classpath": "com.capacitorjs.plugins.haptics.HapticsPlugin"
+	},
+	{
+		"pkg": "@capacitor/keyboard",
+		"classpath": "com.capacitorjs.plugins.keyboard.KeyboardPlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-android-dark-mode-support",
+		"classpath": "dev.robingenz.capacitor.androiddarkmodesupport.AndroidDarkModeSupportPlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-app-update",
+		"classpath": "dev.robingenz.capacitor.appupdate.AppUpdatePlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-background-task",
+		"classpath": "dev.robingenz.capacitor.backgroundtask.BackgroundTaskPlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-badge",
+		"classpath": "dev.robingenz.capacitor.badge.BadgePlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-file-picker",
+		"classpath": "dev.robingenz.capacitorjs.plugins.filepicker.FilePickerPlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-managed-configurations",
+		"classpath": "dev.robingenz.capacitorjs.plugins.managedconfigurations.ManagedConfigurationsPlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-photo-editor",
+		"classpath": "dev.robingenz.capacitorjs.plugins.photoeditor.PhotoEditorPlugin"
+	},
+	{
+		"pkg": "@robingenz/capacitor-screen-orientation",
+		"classpath": "dev.robingenz.capacitor.screenorientation.ScreenOrientationPlugin"
+	}
+]
