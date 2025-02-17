@@ -2,7 +2,10 @@
 
 A simple Capacitor app for use with VoltBuilder.
 
-This is based on [capacitor-plugin-demo](https://github.com/robingenz/capacitor-plugin-demo), a simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+This sample uses the first part of the following tutorial:
+https://ionicframework.com/docs/angular/your-first-app
+
+The full tutorial was not implemented to keep the sample less complex. The intent is to show how a Capacitor project can be processed with VoltBuilder.
 
 ## How to run
 
