@@ -12,7 +12,7 @@ This sample has just been updated to use Capacitor 7. You'll need to use the Vol
 ## How to run
 
 1. Download the project as a [zip file](https://github.com/voltbuilder/sample-capacitor/archive/refs/heads/main.zip).
-1. Zip the capacitor-plugin-demo-main folder.
+1. Zip the photo-gallery folder.
 1. [Upload to VoltBuilder](https://volt.build/upload/) using the Android option.
 1. Wait about a minute for it to finish.
 1. Install the apk that is returned onto your device.
