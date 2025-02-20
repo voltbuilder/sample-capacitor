@@ -7,6 +7,8 @@ https://ionicframework.com/docs/angular/your-first-app
 
 The full tutorial was not implemented to keep the sample less complex. The intent is to show how a Capacitor project can be processed with VoltBuilder.
 
+This sample has just been updated to use Capacitor 7. You'll need to use the VoltBuilder Beta to build. Send an email to support@voltbuilder.com to join the beta.
+
 ## How to run
 
 1. Download the project as a [zip file](https://github.com/voltbuilder/sample-capacitor/archive/refs/heads/main.zip).
